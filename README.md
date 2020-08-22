@@ -5,7 +5,7 @@
 
 ### Technologies implemented:
 
--   [sequelize-typescript](https://nestjs.com/) 
+-   [Nestjs](https://nestjs.com/) 
 -   [PostgreSQL](https://www.postgresql.org/)
 -   [JWT](https://jwt.io/)
 -   [TypeORM](https://typeorm.io/#/)
