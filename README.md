@@ -1,4 +1,3 @@
-# nestjs-auth-orm-swagger
 
 ## Description
 
