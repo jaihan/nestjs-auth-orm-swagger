@@ -17,17 +17,17 @@
 $ npm install
 ```
 
-## Setting up the database for development and test
+## Setting up the database for development 
 
 PostgreSQL database connection options are shown in the following table:
 
-| Option   | Development | Test      |
-| -------- | ----------- | --------- |
-| Host     | localhost   | localhost |
-| Port     | 5432        | 5432      |
-| Username | postgres    | postgres  |
-| Password | postgres    | postgres  |
-| Database | nest        | demodb |
+| Option   | Development |
+| -------- | ----------- 
+| Host     | localhost   |
+| Port     | 5432        |
+| Username | postgres    |
+| Password | postgres    |
+| Database | demodb      |  
 
 ## Running the app
 
@@ -37,4 +37,4 @@ $ npm run start
 ```
 
 ## Swagger API docs
-Swagger docs will be available at localhost:3000/docs
+Swagger docs will be available at [http://localhost:8000/api/docs/](http://localhost:8000/api/docs/).
