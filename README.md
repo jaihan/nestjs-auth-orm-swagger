@@ -1,7 +1,7 @@
 
 ## Description
 
- Creating relationships with Postgres and TypeORM, JWT authenticatio and swagger
+ Creating relationships with Postgres and TypeORM, JWT authenticatio and swagger.
 
 ### Technologies implemented:
 
